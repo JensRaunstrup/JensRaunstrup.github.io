@@ -55,7 +55,9 @@ body {
 }
 
 #root {
-  width: 1126px;
+  /*slet linjen nedenfor hvis du vil have noget til ikke at fylde over sorte 
+  vertikale striber*/
+  /*width: 1126px;*/
   max-width: 100%;
   margin: 0 auto;
   text-align: center;

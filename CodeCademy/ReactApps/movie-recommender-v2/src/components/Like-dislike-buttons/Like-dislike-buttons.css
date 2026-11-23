@@ -1,0 +1,36 @@
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+        padding: 10px 20px 10px 20px;
+        width: 7em;
+        margin: 10px 20px;
+        border: solid 1px black;
+        color: white;
+        transition-duration: 0.5s;
+        border-radius: 7px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+#likeButton {
+    background-color: rgb(0, 128, 0);
+}
+
+#likeButton:hover {
+    background-color: rgb(0, 68, 0);
+}
+
+#dislikeButton {
+    background-color: rgb(230, 0, 0);
+}
+
+#dislikeButton:hover {
+    background-color: rgb(140, 0, 0);
+
+}

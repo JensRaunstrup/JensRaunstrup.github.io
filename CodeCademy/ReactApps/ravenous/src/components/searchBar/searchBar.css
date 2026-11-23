@@ -1,0 +1,74 @@
+.listItems {
+
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.listItemIkkeValgt {
+        margin: 0px 5px 0px 5px;
+            color: white;
+}
+
+.listItems li:hover {
+    color: black;
+    cursor: pointer;
+    color: rgb(164 137 65);
+}
+
+.listItemValgt {
+    margin: 0px 5px 0px 5px;
+    color: rgb(214 180 87);
+}
+
+
+.searchBar li {
+    padding: 20px 20px 5px 20px;
+    border-bottom: solid;
+    width: 5rem;
+}
+
+input {
+    margin: 20px;
+    border: solid 0px;
+    border-radius: 5px;
+    padding: 10px 180px 10px 20px;
+}
+
+.searchButton {
+    padding: 15px 50px 15px 50px;
+    margin: 20px;
+    border: solid 1px white;
+    border-radius: 5px;
+    background-color: rgb(214 180 87);
+    color: white;
+    transition-duration: 0.2s;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.searchButton:hover {
+    background-color: rgb(164 137 65);
+    cursor: pointer;
+}
+
+.searchButton:active {
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)
+}
+
+.searchBar {
+    background-image: url(../../assets/bordTopDown.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+        height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.searchBar div {
+    max-width: 1162px;
+    align-self: center;
+}

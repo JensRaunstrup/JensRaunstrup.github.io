@@ -1,0 +1,10 @@
+.moviePoster {
+    width: 20%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.moviePosterContainer {
+    display: flex;
+    justify-content: center;
+}
