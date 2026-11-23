@@ -57,11 +57,11 @@ function toggleDarkMode3() {
         var test3 = document.getElementById("changeMe3");
         test3.classList.toggle("dark-mode");
         //dark mode header4 declaration
-        var test3 = document.getElementById("changeMe4");
-        test3.classList.toggle("dark-mode");
+        var test4 = document.getElementById("changeMe4");
+        test4.classList.toggle("dark-mode");
         //dark mode button declaration
-        var test4 = document.getElementById("whiteButton1");
-        test4.classList.toggle("dark-mode-button");
+        var test5 = document.getElementById("whiteButton1");
+        test5.classList.toggle("dark-mode-button");
   }
   
   let darkMode = localStorage.getItem("darkMode") == "true"; //returns stored value or null if not set

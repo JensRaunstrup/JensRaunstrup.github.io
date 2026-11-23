@@ -87,23 +87,23 @@ JSON.stringify({ name: "Karl Hadwen", food: "pizza"})
   var test3 = document.getElementById("changeMe3");
   test3.classList.toggle("dark-mode");
   //dark mode header4 declaration
-  var test3 = document.getElementById("changeMe4");
-  test3.classList.toggle("dark-mode");
+  var test4 = document.getElementById("changeMe4");
+  test4.classList.toggle("dark-mode");
   //dark mode images declarations
-  var test4 = document.getElementById("cSharpImg");
-  test4.classList.toggle("dark-mode-cSharpLogo");
-  var test5 = document.getElementById("powerBiImg");
-  test5.classList.toggle("dark-mode-powerBiLogo");
-  var test6 = document.getElementById("blenderImg");
-  test6.classList.toggle("dark-mode-blenderlogo");
-  var test7 = document.getElementById("vsCodeImg");
-  test7.classList.toggle("dark-mode-vsCode");
-  var test8 = document.getElementById("bPUT1");
-  test8.classList.toggle("dark-mode-bTUT");
-  var test9 = document.getElementById("bPUT2");
+  var test5 = document.getElementById("cSharpImg");
+  test5.classList.toggle("dark-mode-cSharpLogo");
+  var test6 = document.getElementById("powerBiImg");
+  test6.classList.toggle("dark-mode-powerBiLogo");
+  var test7 = document.getElementById("blenderImg");
+  test7.classList.toggle("dark-mode-blenderlogo");
+  var test8 = document.getElementById("vsCodeImg");
+  test8.classList.toggle("dark-mode-vsCode");
+  var test9 = document.getElementById("bPUT1");
   test9.classList.toggle("dark-mode-bTUT");
-  var test10 = document.getElementById("bPUT3");
+  var test10 = document.getElementById("bPUT2");
   test10.classList.toggle("dark-mode-bTUT");
+  var test11 = document.getElementById("bPUT3");
+  test11.classList.toggle("dark-mode-bTUT");
 }
 
 let darkMode = localStorage.getItem("darkMode") == "true"; //returns stored value or null if not set

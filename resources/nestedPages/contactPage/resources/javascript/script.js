@@ -63,16 +63,16 @@ function toggleDarkMode2() {
   var test3 = document.getElementById("change3");
   test3.classList.toggle("dark-mode-header");
   //dark mode header4 declaration
-  var test3 = document.getElementById("changeMe4");
-  test3.classList.toggle("dark-mode");
+  var test4 = document.getElementById("changeMe4");
+  test4.classList.toggle("dark-mode");
   //links to dark mode.
-  var test4 = document.getElementById("cLink");
-  test4.classList.toggle("dark-mode-link");
+  var test5 = document.getElementById("cLink");
+  test5.classList.toggle("dark-mode-link");
   //dark mode images declarations
-  var test5 = document.getElementById("emailImg");
-  test5.classList.toggle("dark-mode-a");
-  var test6 = document.getElementById("linkdinImg");
+  var test6 = document.getElementById("emailImg");
   test6.classList.toggle("dark-mode-a");
+  var test7 = document.getElementById("linkdinImg");
+  test7.classList.toggle("dark-mode-a");
 }
 
 let darkMode = localStorage.getItem("darkMode") == "true"; //returns stored value or null if not set
