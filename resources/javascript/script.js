@@ -86,6 +86,9 @@ JSON.stringify({ name: "Karl Hadwen", food: "pizza"})
   //dark mode header3 declaration
   var test3 = document.getElementById("changeMe3");
   test3.classList.toggle("dark-mode");
+  //dark mode header4 declaration
+  var test3 = document.getElementById("changeMe4");
+  test3.classList.toggle("dark-mode");
   //dark mode images declarations
   var test4 = document.getElementById("cSharpImg");
   test4.classList.toggle("dark-mode-cSharpLogo");
