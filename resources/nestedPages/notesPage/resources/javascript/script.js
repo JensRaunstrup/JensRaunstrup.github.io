@@ -68,10 +68,6 @@ function toggleDarkMode2() {
   var test4 = document.getElementById("cLink");
   test4.classList.toggle("dark-mode-link");
   //dark mode images declarations
-  var test5 = document.getElementById("emailImg");
-  test5.classList.toggle("dark-mode-a");
-  var test6 = document.getElementById("linkdinImg");
-  test6.classList.toggle("dark-mode-a");
 }
 
 let darkMode = localStorage.getItem("darkMode") == "true"; //returns stored value or null if not set
