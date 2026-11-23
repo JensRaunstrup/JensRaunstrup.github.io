@@ -59,8 +59,10 @@ function toggleDarkMode2() {
   test1.classList.toggle("dark-mode");
   var test2 = document.getElementById("changeMe2");
   test2.classList.toggle("dark-mode");
+    var test2 = document.getElementById("changeMe3");
+  test2.classList.toggle("dark-mode");
   //dark mode header with underline declaration
-  var test3 = document.getElementById("change3");
+  var test3 = document.getElementById("change4");
   test3.classList.toggle("dark-mode-header");
   //links to dark mode.
   var test4 = document.getElementById("cLink");
