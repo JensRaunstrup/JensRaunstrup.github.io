@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://jensraunstrup.dk/</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://jensraunstrup.dk/index.html</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://jensraunstrup.dk/resources/nestedPages/projectsPage/index.html</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://jensraunstrup.dk/resources/nestedPages/notesPage/index.html</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://jensraunstrup.dk/resources/nestedPages/contactPage/index.html</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://jensraunstrup.dk/glossaries/Engelsk%20B%20begrebsliste%20fra%20onenote%20noter.pdf</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://jensraunstrup.dk/glossaries/Engelsk%20B%20Guide%20til%20eksamen%20og%20skrivning.pdf</loc>
+       <lastmod>2026-11-23T21:59:25+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
